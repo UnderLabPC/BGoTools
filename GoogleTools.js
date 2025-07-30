@@ -1,6 +1,6 @@
 /** GoogleTools.js
  *  Version: 0.1.3
- *  Date:    30 Juli 2025
+ *  Date:    20 Juli 2024
  ** Description:
  *      Google Tag Manager (GTM) dan Google Analytics 4 (GA4), implementasi untuk blogger.
  *      Inisialisasi otomatis saat DOM siap (DOMContentLoaded), tersedia beberapa tambahan
