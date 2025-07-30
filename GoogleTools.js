@@ -11,7 +11,7 @@
  *
  *  by TheFrieLancr Ankshana, https://github.com/TheFrielancr
  ** License: X11/MIT
- *      see https://github.com/UnderLabPC/BGoTools/blob/master/LICENSE
+ *      see https://github.com/UnderLabPC/BGoTools/blob/main/LICENSE
  */ var modFiles = 'GoogleTools.js';
 var modNames = 'GoogleTools';
 class googleTools {
